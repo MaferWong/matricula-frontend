@@ -1,0 +1,9 @@
+.container {
+    position: fixed;
+    top: 61px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 210px calc(100% - 210px);
+}
